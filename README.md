@@ -1,6 +1,9 @@
-[![Build Status](https://travis-ci.org/tlivings/enjoi.png)](https://travis-ci.org/tlivings/enjoi) [![NPM version](https://badge.fury.io/js/enjoi.png)](http://badge.fury.io/js/enjoi)
-
 # enjoi
+
+## WARNING
+This is a modified version of enjoi to roughly support the 'extends' keyword from older JSON Schema Draft versions below 4.
+It should not really be used for anything, but was made for a very specific need on one of our projects.
+This version adds very limited and untested support for 'extends' and for refs of other files.
 
 Converts a JSON schema to a Joi schema for object validation.
 
