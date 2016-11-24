@@ -1,3 +1,16 @@
+### v2.0.0
+
+* updated `joi` to ^9.
+* requires node 4 minimum.
+
+### v1.0.4
+
+* when undefined `minLength` should default to 0.
+
+### v1.0.3
+
+* Validate when `additionalProperties` is boolean.
+
 ### v1.0.2
 
 * Support for `oneOf`.
