@@ -32,8 +32,8 @@
   },
   "homepage": "https://github.com/tlivings/enjoi",
   "dependencies": {
-    "core-util-is": "^1.0.1",
-    "joi": "^9.2.0"
+    "@hapi/joi": "^17.1.1",
+    "core-util-is": "^1.0.1"
   },
   "optionalDependencies": {
     "hammertime": "^0.1.4"
